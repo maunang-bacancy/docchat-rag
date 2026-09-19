@@ -1,0 +1,40 @@
+Sample Chai Co. — Cafe Handbook (Fictional Demo Document)
+
+Note: This is a fictional sample document created only to demonstrate this app.
+"Sample Chai Co." is a made-up placeholder name. All names and details are invented
+and do not refer to any real business.
+
+About Us:
+Sample Chai Co. is a fictional cafe chain founded in 2019 in Ahmedabad, Gujarat.
+It runs 15 imaginary outlets across Gujarat, Maharashtra, and Karnataka. Tea leaves are
+sourced from Assam and Darjeeling, and spices are ground fresh at the Ahmedabad kitchen.
+
+Hours:
+All outlets are open Monday to Saturday from 8:00 AM to 11:00 PM. On Sundays they open at
+9:00 AM and close at 10:00 PM. The Ahmedabad flagship stays open until midnight on Fridays
+and Saturdays.
+
+Loyalty Program:
+Members earn 2 points for every 10 rupees spent. Collecting 200 points earns one free
+cutting chai or masala chai. Points expire 12 months after they are earned. Membership is
+free through the Sample Chai Co. mobile app.
+
+Menu Highlights:
+The signature drink is the Kesar Elaichi Masala Chai, made with saffron and cardamom.
+Dairy-free options (oat and soy milk) are available for an extra 20 rupees. Popular snacks
+include vada pav, samosa, and khakhra. The current seasonal special is the Winter
+Adrak-Gud Chai, made with ginger and jaggery.
+
+Returns and Refunds:
+If a customer is unhappy with any drink, it will be remade or refunded, no questions asked,
+within 20 minutes of purchase. Packaged tea boxes can be returned unopened within 7 days
+with a valid bill.
+
+Careers:
+Sample Chai Co. hires tea baristas and kitchen staff year-round. New joinees complete a
+10-day paid training program. Starting pay is 18,000 rupees per month, plus a share of tips.
+Employees get one free meal per shift and a 30 percent discount on all packaged products.
+
+Festivals:
+During Diwali and Uttarayan (kite festival), all outlets offer a special festive combo of
+masala chai with fafda-jalebi. Outlets are closed only on Holi and Diwali main day.
